@@ -13,7 +13,4 @@ After That run the "win1.py" file to access the health care chatbot
 =============================================
 This Project is submitted By
 2019-CE-21 (Saqib Azhar)
-2019-CE-24 (Faizan Ali)
-2019-CE-33 (Ijaz Ali)
-
 
